@@ -1,0 +1,4 @@
+/home/alejandro/work/facu/UBA/orga2/Trabajos-finales/Shai Bianchi/orga_tpf/build/CMakeFiles/rebuild_cache.dir
+/home/alejandro/work/facu/UBA/orga2/Trabajos-finales/Shai Bianchi/orga_tpf/build/CMakeFiles/edit_cache.dir
+/home/alejandro/work/facu/UBA/orga2/Trabajos-finales/Shai Bianchi/orga_tpf/build/CMakeFiles/exp.dir
+/home/alejandro/work/facu/UBA/orga2/Trabajos-finales/Shai Bianchi/orga_tpf/build/CMakeFiles/main.dir
